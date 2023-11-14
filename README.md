@@ -1,2 +1,2 @@
-# Econometerics-II-Project
+# Econometrics-II-Project
 Secchi Depth Tobit Regression
